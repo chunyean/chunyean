@@ -1,7 +1,7 @@
 ## Welcome to my GitHub.
 ### It will show my growth stage.
 - 👋 Hi, I’m @chunyean(Foong Chun Yean)
-- 👀 I’m interested in culinary and technology
+- 👀 I’m interested in Technology and Culinary
 - 🌱 I’m currently learning [JavaScript, React.js, CSS, HTML, MongoDB, PostgreSQL, Node.js, Express.js, TypeScript, and more will be coming soon]
 - 💞️ I'm currently looking for a chance for a career change
 - 📫 Reach me here: https://www.linkedin.com/in/chun-yean/
